@@ -1,0 +1,6 @@
+npm init -y
+npm i ejs
+npm i express
+npm i cookie-parser
+npm i bcrypt
+npm i jsonwebtoken
